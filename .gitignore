@@ -1,0 +1,3 @@
+# Toos los archivos que se coloquen aca
+# seran ignorados y no se subiran al repositorio
+.env
